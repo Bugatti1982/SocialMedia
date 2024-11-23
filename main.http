@@ -1,0 +1,6 @@
+GET http://localhost:3001/api/students
+###
+GET http://localhost:3001/api/students/6719a53e5a8340ef336ac2a0
+###
+GET http://localhost:3001/api/courses
+###
